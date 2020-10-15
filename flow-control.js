@@ -3,7 +3,10 @@ return(`You are a teenager!`)
 }
 
 function teenager(age) {
-return(`You are not a teenager`)
+if(true) { return(`You are a teenager`)}
+else {
+  return(`You are not a teenager`)
+}
 }
 
 function ageChecker(age) {
