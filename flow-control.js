@@ -3,7 +3,7 @@ return(`You are a teenager!`)
 }
 
 function teenager(age) {
-if (true) {
+if (13<age<19) {
   return(`You are a teenager!`)
 } else {
   return(`You are a teenager!`)
