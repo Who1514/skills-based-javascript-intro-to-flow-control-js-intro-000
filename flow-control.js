@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return(`You are a teenager!`)
   }
   if (false) {
-    return(`undefined`)
+    return()
   }
 }
 
