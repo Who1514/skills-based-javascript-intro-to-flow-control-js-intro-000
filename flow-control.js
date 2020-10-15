@@ -1,10 +1,6 @@
 function basicTeenager(age) {
-  if (13) {
+  if (true) {
     return(`You are a teenager!`)
-  }
-  if (12) {
-    return(`undefined`)
-  }
 }
 
 function teenager(age) {
